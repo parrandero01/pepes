@@ -67,3 +67,8 @@
 [14May2025 17:22:36.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolsupa joined the game
 [14May2025 17:22:43.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolsupa lost connection: Disconnected
 [14May2025 17:22:43.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolsupa left the game
+[14May2025 17:35:39.377] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@572f930b[id=<null>,name=lolsupa,properties={},legacy=false] (/100.87.102.91:51070) lost connection: Disconnected
+[14May2025 17:35:57.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolsupa[/100.87.102.91:51081] logged in with entity id 1068 at (-140.33539552634, 65.0, 77.97735409964636)
+[14May2025 17:35:57.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolsupa joined the game
+[14May2025 17:36:03.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolsupa lost connection: Disconnected
+[14May2025 17:36:03.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolsupa left the game
