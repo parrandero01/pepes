@@ -6182,3 +6182,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16May2025 22:48:36.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolsupa lost connection: Disconnected
 [16May2025 22:48:36.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolsupa left the game
 [16May2025 22:48:36.391] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa70438f-151c-31ad-8e8c-d4b47df01ae3
+[16May2025 22:51:22.433] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[16May2025 22:51:22.433] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[16May2025 22:51:34.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 22:51:34.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 22:54:42.583] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[16May2025 22:56:34.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 22:56:34.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 22:58:02.533] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
