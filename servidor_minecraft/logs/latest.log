@@ -2894,3 +2894,7 @@
 [19May2025 19:22:54.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19May2025 19:22:54.526] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19May2025 19:22:54.627] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19May2025 19:26:20.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolsupa lost connection: Disconnected
+[19May2025 19:26:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolsupa left the game
+[19May2025 19:26:20.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolsupa hit the ground too hard
+[19May2025 19:26:20.542] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa70438f-151c-31ad-8e8c-d4b47df01ae3

@@ -10032,3 +10032,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19May2025 19:23:22.247] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (1102 | 9 | -353)
 [19May2025 19:23:22.247] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (1097 | 9 | -348)
 [19May2025 19:23:22.248] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (1097 | 9 | -348)
+[19May2025 19:24:51.673] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[19May2025 19:24:51.673] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[19May2025 19:25:01.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 19:25:01.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 19:26:20.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolsupa lost connection: Disconnected
+[19May2025 19:26:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolsupa left the game
+[19May2025 19:26:20.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolsupa hit the ground too hard
+[19May2025 19:26:20.542] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa70438f-151c-31ad-8e8c-d4b47df01ae3
+[19May2025 19:28:11.773] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[19May2025 19:30:01.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 19:30:01.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 19:31:31.773] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
